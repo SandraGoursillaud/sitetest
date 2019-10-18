@@ -1,0 +1,23 @@
+
+body {
+	background-image: url("images/bordeaux.jpg");
+	background-image: no-repeat;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+
+
+.texte {
+	background-color:  rgba(0, 0, 0, 0.5);
+	width: 300px;
+	position: absolute;
+	bottom: 200px;
+	right: 450px;
+	padding: 10px;
+}
+
+.texte a: hover {
+	color: pink;
+}
